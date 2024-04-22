@@ -1,0 +1,26 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.tela-login {
+    color:rgb(255, 0, 0)
+}
+
+#imagem img {
+    margin-top: 15%;
+    width: 200px;
+    
+}
+
+button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 94, 0);
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    padding: 10px 15px;
+}
